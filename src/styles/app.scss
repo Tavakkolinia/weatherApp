@@ -1,5 +1,21 @@
+body {
+  background-color: orange;
+}
 .forecast {
-    margin-left: 20px;
-    margin-right: 20px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.searchform,
+.location-details {
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+button,
+input {
+  border-radius: 4px;
+}
+button {
+  background-color: rgb(168, 62, 62);
+  font-weight: bold;
 }

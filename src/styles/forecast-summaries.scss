@@ -1,11 +1,12 @@
 .forecast-summaries {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
 }
 .forecastIcon {
-    padding-bottom: 15px;
-}  
+  padding-bottom: 15px;
+}
 .details {
-    margin-bottom: 20px;
-}  
-    
+  margin-bottom: 20px;
+  font-size: 15px;
+}
